@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PhamHungIT
+- 👋 Hi, I’m @hungph10
 - 👀 I’m interested in playing sport, and listening music
 - 🌱 I’m currently learning computer science at Hanoi University of Science and Technology
 
