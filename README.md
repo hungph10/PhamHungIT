@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hungph10
+- 👋 Hi, I’m @vincent-amchrus
 - 👀 I’m interested in playing sport, and listening music
-- 🌱 I’m currently learning computer science at Hanoi University of Science and Technology
+- 🌱 I’m currently learning CS
 
 <!---
 PhamHungIT/PhamHungIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
